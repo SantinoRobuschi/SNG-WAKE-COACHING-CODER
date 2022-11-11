@@ -1,0 +1,10 @@
+@import "variables";
+footer {
+    background-color: $color-primario;
+    text-align: center;
+    bottom: 0%;
+}
+
+.footer__logo {
+    margin-top: 5px;
+}
